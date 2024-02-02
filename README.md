@@ -1,0 +1,1 @@
+# sample-image-for-web
